@@ -44,12 +44,12 @@ Accédez à l'URL du site dans votre navigateur (par exemple : http://localhost/
 
 
 ## Structure du projet
-
+```
 wp-content/themes/hello-elementor-child - Le thème WordPress personnalisé pour ce projet.
 database/db.sql.zip - Fichier de la base de données exportée.
 index.php - Modèle de page pour l'accueil.
 single-recette.php - Modèle de page pour afficher les recettes en détail.
-
+```
 
 ## Usage
 
@@ -66,7 +66,7 @@ Ce projet utile le thème Hello elementor comme base, et la librairie Slick slid
 
 ## Points d'amélioration
 
-Avec plus de temps, le projet pour être amélioré visuellement.
+Avec plus de temps, le projet pourrait être amélioré visuellement.
 Nous pouvons également envisager l'ajout d'un champ temps de préparation, des catégories, ou encore améliorer le champ CPT de la liste d'ingrédients ou d'étapes afin de le rendre plus simple d'utilisation pour un utilisateur novice.
 
 
