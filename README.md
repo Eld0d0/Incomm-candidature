@@ -59,6 +59,16 @@ La page d'accueil affiche les dernières recettes ajoutées avec l’image, le t
 Page de Détail des Recettes
 Chaque recette possède une page dédiée pour afficher les ingrédients, le temps de cuisson et les étapes.
 
+## Dépendances
+
+Ce projet utile le thème Hello elementor comme base, et la librairie Slick slider, pour le slider de la page d'accueil.
+
+
+## Points d'amélioration
+
+Avec plus de temps, le projet pour être amélioré visuellement.
+Nous pouvons également envisager l'ajout d'un champ temps de préparation, des catégories, ou encore améliorer le champ CPT de la liste d'ingrédients ou d'étapes afin de le rendre plus simple d'utilisation pour un utilisateur novice.
+
 
 ## Aide
 
